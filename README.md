@@ -8,7 +8,7 @@ This module is a simple PowerShell module that allows for control of media playb
 
 To install this module, please follow these steps:
 1. Open your PowerShell console and navigate to the directory where you would like to install the module: `cd %USERPROFILE%/Documents/PowerShell/Modules`
-2. Run the command to clone the module repository: `git clone https://github.com/sideral-technologies/MediaControls.git`
+2. Run the command to clone the module repository: `git clone https://github.com/Sideral-Tech/MediaControls.git`
 3. Edit your PowerShell profile and add the following line: `Import-Module MediaControls`
 
 ### Usage
